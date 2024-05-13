@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
 fromaddr = "pravoye88@mail.ru"
 toaddr = "pravoye88@mail.ru"
-mypass = "zv1488zv"
+mypass = "parol123"
 reportname = "report.xml"
 msg = MIMEMultipart()
 msg['From'] = fromaddr
